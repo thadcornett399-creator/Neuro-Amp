@@ -1,0 +1,7 @@
+{
+  "name": "NeuroAmp AI",
+  "description": "An AI-powered guitar recording interface featuring a smart tone wizard, rack-mount effects processing, and a multi-track loop station.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
